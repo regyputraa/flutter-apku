@@ -1,0 +1,1 @@
+aplikasi ini dibuat dengan flutter dan terhubung dengan database menggunakan php

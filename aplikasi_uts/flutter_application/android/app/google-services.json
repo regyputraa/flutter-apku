@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529005084410",
+    "project_id": "project-pertama-ede70",
+    "storage_bucket": "project-pertama-ede70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529005084410:android:020083b520a705fd235343",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMcH8Kgp9FvkuwSQi_gXcsdpq2z-EhLEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
